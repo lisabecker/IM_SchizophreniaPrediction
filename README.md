@@ -1,5 +1,5 @@
 # Schizophrenia Prediction
-Prediction of schizophrenia with NGram Tracing and Word Graph Analysis. This was a project for the Individual Module of the Cognitive Systems Master's program at the University of Potsdam (Germany),
+Prediction of schizophrenia with NGram Tracing and Word Graph Analysis. This was a project for the Individual Module (IM) of the Cognitive Systems Master's program at the University of Potsdam (Germany),
 supervised by Walter Daelemans at the research group CLIPS at the University of Antwerpen (Belgium). 
 
 The data was collected by CAPRI at the hospital of Antwerpen (Belgium) and is under non-disclosure.
